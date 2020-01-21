@@ -1,0 +1,20 @@
+button{
+    
+    cursor: pointer;
+    float: none;
+    display: inline-block;
+    text-align: left;
+    width: 10px;
+    margin: 0;
+    padding: 13.5px;
+    position: relative;
+    bottom: 0.5px;
+
+
+
+}
+
+.bg
+{ background-image: url(background.jpg);
+
+}
